@@ -61,7 +61,7 @@ module.exports = {
         network_id: 4,       // rinkeby's id
         gas: 4500000,        // rinkeby has a lower block limit than mainnet
         gasPrice: 10000000000,
-        from: '0xA910A4d5d23D4afe71bDa78Cf46CaF0C7b979b8e'
+        //from: '0xA910A4d5d23D4afe71bDa78Cf46CaF0C7b979b8e'
 
     },
 
